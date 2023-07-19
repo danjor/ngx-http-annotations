@@ -137,7 +137,6 @@
       }
     }
   },
-  "defaultProject": "example-ngx-http-annotations",
   "cli": {
     "analytics": "ccb5e103-d12f-4375-adf3-3b0114a333a4"
   }
